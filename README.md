@@ -49,6 +49,11 @@ I'm a Data Enthusiast with a passion for extracting actionable insights from com
 
 - **Sales & Stock Analysis** 📈
   - Used MySQL and Tableau to analyze sales metrics, and applied clustering algorithms for better stock segmentation insights.
+ 
+### 📊 **Classic Movie Ratings Analysis with Power BI**
+
+- **Report Creation**: Designed a Power BI report that delivers an in-depth analysis of classic movies released up to the year 2000, utilizing metrics such as movie genre, user age, gender, and other demographic data.
+- **Insights for Targeted Engagement**: Analyzed audience preferences, offering actionable insights to identify which genres are favored by specific demographic groups. This information can guide content curation and marketing strategies to better engage diverse audience segments.
 
 ---
 
