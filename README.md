@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm Mayukh Basak!  
+# 👋 Hello, I'm Mayukh!  
 
 🎓 **M.A. Economics** | 💼 **Data Enthusiast** | 📊 **Assistant Manager - @ EXL** | 🌍 **Delhi, India**
 
