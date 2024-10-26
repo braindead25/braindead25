@@ -77,7 +77,7 @@ This breakdown highlights your expertise across various projects, giving each it
 ## 📊 Let's Connect!
 
 
-💼 [LinkedIn](https://linkedin.com/in/mayukh-basak) | 📬 mayukhbasak25@gmail.com | 📞 9748777053
+💼 [LinkedIn](https://www.linkedin.com/in/mayukh-b-b8329a167/) | 📬 mayukhbasak25@gmail.com | 📞 9748777053
 
 ---
 
