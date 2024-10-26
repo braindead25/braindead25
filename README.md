@@ -34,45 +34,6 @@ I'm a Data Enthusiast with a passion for extracting actionable insights from com
 - 🛠 **Technical**: SQL | Excel | Power BI | Python | Tableau | Stata  
 - 📚 **Specialties**: Data Analysis | Machine Learning | Risk Management | Data Visualization | Econometrics  
 
----
-
-## 📂 Featured Projects
-
-Certainly! Here's a more detailed breakdown of some of my projects:
-
----
-
-### 📱 **Dynamic Pricing Strategy for Used Devices**
-- **Overview**: Developed machine learning models to establish a dynamic pricing strategy for used and refurbished devices, helping to optimize pricing in a growing secondary device market.
-- **Techniques**: Utilized regression-based ML models, tuning key parameters to predict prices with an **R² score of 84%**, indicating a strong model fit to the data.
-- **Outcome**: Delivered a data-driven pricing approach that provides insights into factors influencing device value over time, helping refine sales and marketing strategies for used devices.
-
----
-
-### 🌍 **Air Quality Prediction in Dar Es Salaam and Nairobi**
-- **ETL & Modeling**: Connected to MongoDB to perform **ETL (Extract, Transform, Load)** on air quality data, bringing insights on pollutant levels into Python using the PyMongo library.
-- **Predictive Modeling**: Predicted **PM2.5 levels** using AR and ARMA models, carefully tuned to minimize mean absolute error.
-- **Validation**: Applied **walk-forward validation** to measure model accuracy over time, creating a reliable forecast for air quality patterns in urban areas.
-
----
-
-### 📉 **Covid Impact Analysis on Income and Expenditure**
-- **Objective**: Conducted a detailed **panel data regression** to analyze the impact of Covid-19 on income and expenditure for middle-income families from 2019 to 2021.
-- **Key Insights**: Identified shifts in spending and income distribution due to the pandemic, providing insights into the economic strain and adjustments faced by families.
-- **Outcome**: Generated actionable insights that could guide policymakers or NGOs in developing support strategies for affected households.
-
----
-
-### 📊 **Classic Movie Ratings Analysis with Power BI**
-- **Report Creation**: Developed a Power BI dashboard analyzing classic movies (released up to 2000) based on factors like **genre, user age, gender, and demographics**.
-- **Targeted Insights**: Delivered actionable insights on genre preferences across demographics, providing a foundation for **content curation** and **marketing strategies** aimed at engaging diverse user segments.
-- **Impact**: This visual report allows deeper audience engagement by aligning movie offerings with the preferences of various age groups, gender profiles, and user locations.
-
----
-
-This breakdown highlights your expertise across various projects, giving each its own distinctive flair with added details for clarity and impact!ts.
-
----
 
 ## 📊 Let's Connect!
 
