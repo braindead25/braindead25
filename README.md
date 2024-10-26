@@ -13,7 +13,7 @@ I'm a Data Enthusiast with a passion for extracting actionable insights from com
 
 ## 💼 Work Experience
 
-- **Assistant Manager - AI & Analytics @ EXL Service** (2021-2023)
+- **Assistant Manager - AI & Analytics @ EXL Service** (2023-Present)
   - 📈 Forecasted client delivery performance and evaluated potential risks.
   - 📊 Optimized weekly PMO reporting with Excel & SQL, boosting efficiency and accuracy.
   - 🎨 Enhanced visual reporting through VBA automation for quicker, clearer insights.
