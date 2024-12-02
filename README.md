@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Mayukh!  
 
-🎓 **M.A. Economics** | 💼 **Data Enthusiast** | 📊 **Assistant Manager - @ EXL** | 🌍 **Delhi, India**
+🎓 **M.A. Economics** |📊 **Assistant Manager - @ EXL** | 🌍 **Delhi, India**
 
 ---
 
